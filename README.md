@@ -6,7 +6,7 @@
 
 # Deploy on heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrRizoel/SpamX-deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=(https://heroku.com/deploy?template=))
 
 # Credits
 * [RiZoeL Creator](https://github.com/MrRizoel)
